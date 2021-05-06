@@ -1,0 +1,12 @@
+img{
+    width: 700px;
+   height: 800px;
+}
+body{
+    text-align: center;
+    background-color: rgb(251, 255, 0);
+}
+#mom{
+    font-size: 80px;
+    font-family: 'Niconne', cursive;
+}
